@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\NewTest\Test11\bin\Debug\net6.0\Test11.exe
+C:\Users\User\Desktop\NewTest\Test11\bin\Debug\net6.0\Test11.deps.json
+C:\Users\User\Desktop\NewTest\Test11\bin\Debug\net6.0\Test11.runtimeconfig.json
+C:\Users\User\Desktop\NewTest\Test11\bin\Debug\net6.0\Test11.dll
+C:\Users\User\Desktop\NewTest\Test11\bin\Debug\net6.0\Test11.pdb
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.AssemblyInfo.cs
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.dll
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\refint\Test11.dll
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.pdb
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\Test11.genruntimeconfig.cache
+C:\Users\User\Desktop\NewTest\Test11\obj\Debug\net6.0\ref\Test11.dll
