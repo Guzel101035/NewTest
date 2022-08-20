@@ -9,5 +9,5 @@ WriteLine("Введите координаты второй точки:");
 int x2 = Convert.ToInt32(ReadLine());
 int y2 = Convert.ToInt32(ReadLine());
 
-int distance = Convert.ToInt32(Math.Sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1)));
-Write($"Расстояние между точками равно {distance}");
+double distance = Math.Sqrt((x2-x1)*(x2-x1) + (y2-y1)*(y2-y1));
+Write($"Расстояние между точками равно {distance:f2}");
