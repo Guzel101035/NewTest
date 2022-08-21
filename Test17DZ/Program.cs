@@ -3,23 +3,31 @@
 using static System.Console;
 Clear();
 Console.WriteLine("Введите число: ");
-int number = int.Parse(ReadLine());
+int number =Convert.ToInt32(ReadLine());
 
-int number1 = number / 100;
-if( number1 < 1)
+if(number < 99)
 {
     Console.WriteLine("Третьей цифры нет");
 }
-if( number1 > 1 && number1 <1000)
+ 
+if( number > 99 && number <1000)
 {
-   int number2 = number1 % 10;
-   Console.WriteLine(number2);
+   int number1 = number % 10;
+   Console.WriteLine(number1);
 }
-else
-   while(number1 < 1000)
-{
-   int number3 = number / 10;
-   WriteLine(number3);
-}
+
+   else
+   
+      while(number < 1000)
+      {
+         int number2 =  number / 10;
+         int number3 = number2 % 10; 
+         Write( number3);
+      } 
+Console.WriteLine();
+   
+
+   
+
 
 
